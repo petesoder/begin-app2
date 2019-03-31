@@ -1,0 +1,7 @@
+{
+  "name": "begin-app-get-pete",
+  "dependencies": {
+    "@architect/functions": "latest",
+    "@begin/data": "latest"
+  }
+}
